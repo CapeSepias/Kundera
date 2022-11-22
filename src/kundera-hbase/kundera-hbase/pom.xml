@@ -14,7 +14,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<hadoop.version>2.2.0</hadoop.version>
+		<hadoop.version>3.2.4</hadoop.version>
 		<hbase.version>0.96.1.1-hadoop2</hbase.version>
 		<thrift.version>0.9.0</thrift.version>
 	</properties>
