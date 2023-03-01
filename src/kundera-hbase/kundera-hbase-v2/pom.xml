@@ -16,7 +16,7 @@
 
 	<properties>
 		<hbase.version>1.0.0</hbase.version>
-		<thrift.version>0.9.0</thrift.version>
+		<thrift.version>0.14.0</thrift.version>
 	</properties>
 
 	<!-- Dependencies -->
